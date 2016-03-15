@@ -1,4 +1,7 @@
 # 2D-Platforms
  Game
 
-Tasohyppely peli
+NetBeans project
+
+Arrows - Move
+J - Shoot
